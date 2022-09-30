@@ -1,0 +1,5 @@
+{
+    "debug.javascript.autoAttachFilter": "always",
+    "material-icon-theme.activeIconPack": "react",
+    "terminal.integrated.sendKeybindingsToShell": true
+}
